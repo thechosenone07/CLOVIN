@@ -23,8 +23,11 @@
 </p>
 
 
-Telegram Bot to store Posts and Documents and it can Access by Special Links.
-I Guess This Will Be Usefull For Many People.....😇. 
+Hey, I'm CLOVIN 
+official file sharing 
+bot of @BOTNMOVIE ✨ | @BNMCHAT ✨ 
+;) 
+ 
 
 ##
 
@@ -53,7 +56,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/CodeXBotz/File-Sharing-Bot
+git clone https://github.com/thechosenone07/CLOVIN
 cd File-Sharing-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
@@ -103,7 +106,7 @@ python3 main.py
 
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
+👽 [ MAN ](https://t.me/J_A_R_V_l_S) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 
