@@ -24,8 +24,8 @@
 
 
 Hey, I'm CLOVIN 
-official file sharing 
-bot of @BOTNMOVIE ✨ | @BNMCHAT ✨ 
+just a file sharing 
+bot of [M A N 👽 ](https://t.me/J_A_R_V_l_S)
 ;) 
  
 
